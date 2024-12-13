@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Home() {
   return (
-    <div className="mx-auto max-w-2xl space-y-6 px-2 py-20">
+    <div className="mx-auto max-w-2xl space-y-6 px-8 py-20">
       <h1 className="text-center text-2xl font-bold">
         NextJs 15 Starter with ShadCN, TailwindCSS, Prettier Plugin for
         TailwindCSS, and JavaScript.
