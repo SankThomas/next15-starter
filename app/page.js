@@ -45,6 +45,25 @@ export default function Home() {
         </li>
       </ol>
 
+      <div>
+        <p>
+          This example uses{" "}
+          <code className="rounded bg-neutral-800 px-1 py-0.5 text-sm">
+            pnpm
+          </code>{" "}
+          as the package manager. If you are using a different package manager,
+          first delete the{" "}
+          <code className="rounded bg-neutral-800 px-1 py-0.5 text-sm">
+            pnpn-lock.yaml
+          </code>{" "}
+          file before installing{" "}
+          <code className="rounded bg-neutral-800 px-1 py-0.5 text-sm">
+            node_modules
+          </code>
+          , otherwise it will cause a conflict in your project.
+        </p>
+      </div>
+
       <small className="mt-8 block text-center">
         <a
           href="https://youtube.com/tsbsankara"
