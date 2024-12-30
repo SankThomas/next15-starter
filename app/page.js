@@ -35,7 +35,7 @@ export default function Home() {
             https://github.com/tailwindlabs/prettier-plugin-tailwindcss
           </a>
         </li>
-        <li>JavaScript, because I don't know TypeScript.</li>
+        <li>JavaScript, because I don&apos;t know TypeScript.</li>
         <li>
           The default font is set to Geist Sans in{" "}
           <code className="rounded bg-neutral-800 px-1 py-0.5 text-sm">
@@ -54,7 +54,7 @@ export default function Home() {
           as the package manager. If you are using a different package manager,
           first delete the{" "}
           <code className="rounded bg-neutral-800 px-1 py-0.5 text-sm">
-            pnpn-lock.yaml
+            pnpm-lock.yaml
           </code>{" "}
           file before installing{" "}
           <code className="rounded bg-neutral-800 px-1 py-0.5 text-sm">
