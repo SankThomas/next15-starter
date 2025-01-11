@@ -7,6 +7,6 @@
 - JavaScript, because I don't know TypeScript.
 - The default font is set to Geist Sans in `globals.css` - the current default font in NextJs.
 
-> This example uses `pnpm` as the package manager. If you are using a different package manager, first delete the `pnpn-lock.yaml` file before installing node_modules, otherwise it will cause a conflict in your project.
+> This example uses `pnpm` as the package manager. If you are using a different package manager, first delete the `pnpm-lock.yaml` file before installing node_modules, otherwise it will cause a conflict in your project.
 
 > [Find me here](https://youtube.com/tsbsankara)
