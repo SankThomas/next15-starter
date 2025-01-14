@@ -62,6 +62,19 @@ export default function Home() {
           </code>
           , otherwise it will cause a conflict in your project.
         </p>
+
+        <p className="mt-8">
+          <strong>UPDATE:</strong> I added{" "}
+          <code className="rounded bg-neutral-800 px-1 py-0.5 text-sm">
+            "next/babel"
+          </code>{" "}
+          in the{" "}
+          <code className="rounded bg-neutral-800 px-1 py-0.5 text-sm">
+            .eslintrc.json
+          </code>{" "}
+          file because I was getting a weird error in all the files saying that
+          it could not find the module.
+        </p>
       </div>
 
       <small className="mt-8 block text-center">
