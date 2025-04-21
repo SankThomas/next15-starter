@@ -1,36 +1,12 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+### NextJs 15 Starter with ShadCN, TailwindCSS, Prettier Plugin for TailwindCSS, and JavaScript.
 
-## Getting Started
+#### Why did I choose these?
 
-First, run the development server:
+- ShadCN: An amazing component library: [https://ui.shadcn.com](https://ui.shadcn.com)
+- Prettier Plugin for TailwindCSS sorts classes according to an order agreed upon at Tailwind Labs: [https://github.com/tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
+- JavaScript, because I don't know TypeScript.
+- The default font is set to Geist Sans in `globals.css` - the current default font in NextJs.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+> This example uses `pnpm` as the package manager. If you are using a different package manager, first delete the `pnpm-lock.yaml` file before installing node_modules, otherwise it will cause a conflict in your project.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+> [Find me here](https://youtube.com/tsbsankara)
