@@ -38,7 +38,7 @@ export default function Home() {
         <li>JavaScript, because I don&apos;t know TypeScript.</li>
         <li>
           The default font is set to Geist Sans in{" "}
-          <code className="rounded bg-neutral-800 px-1 py-0.5 text-sm">
+          <code className="rounded bg-neutral-200 px-1 py-0.5 text-sm dark:bg-neutral-800">
             globals.css
           </code>{" "}
           - the current default font in NextJs.
@@ -48,16 +48,16 @@ export default function Home() {
       <div>
         <p>
           This example uses{" "}
-          <code className="rounded bg-neutral-800 px-1 py-0.5 text-sm">
+          <code className="rounded bg-neutral-200 px-1 py-0.5 text-sm dark:bg-neutral-800">
             pnpm
           </code>{" "}
           as the package manager. If you are using a different package manager,
           first delete the{" "}
-          <code className="rounded bg-neutral-800 px-1 py-0.5 text-sm">
+          <code className="rounded bg-neutral-200 px-1 py-0.5 text-sm dark:bg-neutral-800">
             pnpm-lock.yaml
           </code>{" "}
           file before installing{" "}
-          <code className="rounded bg-neutral-800 px-1 py-0.5 text-sm">
+          <code className="rounded bg-neutral-200 px-1 py-0.5 text-sm dark:bg-neutral-800">
             node_modules
           </code>
           , otherwise it will cause a conflict in your project.
@@ -65,11 +65,11 @@ export default function Home() {
 
         <p className="mt-8">
           <strong>UPDATE:</strong> I added{" "}
-          <code className="rounded bg-neutral-800 px-1 py-0.5 text-sm">
+          <code className="rounded bg-neutral-200 px-1 py-0.5 text-sm dark:bg-neutral-800">
             "next/babel"
           </code>{" "}
           in the{" "}
-          <code className="rounded bg-neutral-800 px-1 py-0.5 text-sm">
+          <code className="rounded bg-neutral-200 px-1 py-0.5 text-sm dark:bg-neutral-800">
             .eslintrc.json
           </code>{" "}
           file because I was getting a weird error in all the files saying that
